@@ -1,0 +1,12 @@
+[
+  {
+    "urlId": "sample",
+    "origUrl": "https://github.com/leocairos",
+    "shortUrl": "http://localhost:3333/sample"
+  },
+  {
+    "urlId": "sample2",
+    "origUrl": "https://github.com/leocairos",
+    "shortUrl": "http://localhost:3333/sample2"
+  }
+]
